@@ -1,6 +1,6 @@
 {
   "name": "atmelsam",
-  "title": "Atmel SAM",
+  "title": "Atmel SAM - Sureal Edition",
   "description": "Atmel | SMART offers Flash- based ARM products based on the ARM Cortex-M0+, Cortex-M3 and Cortex-M4 architectures, ranging from 8KB to 2MB of Flash including a rich peripheral and feature mix.",
   "url": "http://www.atmel.com/products/microcontrollers/arm/default.aspx",
   "homepage": "http://platformio.org/platforms/atmelsam",
@@ -35,7 +35,7 @@
   "packages": {
     "toolchain-gccarmnoneeabi": {
       "type": "toolchain",
-      "version": ">=1.40803.0,<1.50201.0"
+      "version": ">=1.50201.0,<1.50201.0"
     },
     "framework-arduinosam": {
       "type": "framework",
